@@ -11,6 +11,7 @@
     <DeviceOrientations>Portrait;Landscape</DeviceOrientations>
     <iOSStatusBarStyle>Default</iOSStatusBarStyle>
     <AndroidHardwareAcceleration>false</AndroidHardwareAcceleration>
+    <AndroidVersionCode>1</AndroidVersionCode>
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="App_Resources" />
